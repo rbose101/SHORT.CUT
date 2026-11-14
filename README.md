@@ -1,3 +1,3 @@
-# custom_url_shortner
+# SHORT.CUT
 
-A new Flutter project.
+A Web App build using Flutter and Node.js/Express with MongoDB thats converts a given link into a shortlink
