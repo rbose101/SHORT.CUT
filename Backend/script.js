@@ -1,4 +1,4 @@
-import "dotenv/config"
+require("dotenv").config()
 const express = require("express")
 const urlRouter = require("./routes/index")
 const cors = require("cors");

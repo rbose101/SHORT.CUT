@@ -4,8 +4,8 @@
   "description": "",
   "main": "connection.js",
   "scripts": {
-    "dev": "nodemon server.js",
-    "start": "node server.js"
+    "dev": "nodemon script.js",
+    "start": "node script.js"
   },
   "keywords": [],
   "author": "",
